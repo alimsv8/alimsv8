@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alimsv8
 - 👀 I’m interested in professional website biulding
-- 🌱 I’m currently learning js html css nodjs
+- 🌱 I’m currently learning Js Html CSS NodeJs
 
 <!---
 alimsv8/alimsv8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
